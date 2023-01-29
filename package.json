@@ -1,6 +1,6 @@
 {
   "name": "la-maldita-programadora-profile-card",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My npm card 🤡",
   "main": "index.js",
   "bin": {
