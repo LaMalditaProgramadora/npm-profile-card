@@ -30,7 +30,7 @@ const data = {
   linkedin:
     chalk.gray("https://www.linkedin.com/in/") +
     chalk.blue("jimena-alexandra-ruiz-cerna"),
-  npx: chalk.red("npx") + " " + chalk.white("npm-profile-card"),
+  npx: chalk.red("npx") + " " + chalk.white("la-maldita-programadora-profile-card"),
   labelWork: chalk.white.bold("    Work:"),
   labelYouTube: chalk.white.bold(" YouTube:"),
   labelGitHub: chalk.white.bold("  GitHub:"),
