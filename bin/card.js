@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /* eslint-disable no-multiple-empty-lines */
 /* eslint-disable quotes */
 /* eslint-disable no-unused-vars */

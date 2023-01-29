@@ -1,6 +1,6 @@
 {
   "name": "la-maldita-programadora-profile-card",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "My npm card 🤡",
   "main": "index.js",
   "bin": {
@@ -10,7 +10,8 @@
   "scripts": {
     "test": "echo \"pending...\"",
     "lint": "eslint --ext .js, bin/card.js",
-    "lint:fix": "eslint --ext .js, bin/card.js --fix"
+    "lint:fix": "eslint --ext .js, bin/card.js --fix",
+    "release": "np"
   },
   "repository": {
     "type": "git",
